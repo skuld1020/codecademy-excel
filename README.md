@@ -10,4 +10,4 @@ handling-data-excel-hotel-bookings
 <br>匯入csv資料在excel整理、處理空值和離群值、算出酒店的取消率以及工作表保護功能。</br>
 
 analyze-bitcoin-project-files
-<br>分析比特幣的上漲幅度和波動性。(/br)
+<br>分析比特幣的上漲幅度和波動性。</br>
